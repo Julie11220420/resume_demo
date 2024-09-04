@@ -514,7 +514,7 @@ body.dark-theme {
     height: 120px;
   }
   .profile__perfil img {
-    width: 90%;
+    width: 100%;
   }
   .profile__profession {
     margin-bottom: 1.5rem;
